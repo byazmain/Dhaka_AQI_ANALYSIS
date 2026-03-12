@@ -4,7 +4,7 @@
 
 Dhaka, the capital of Bangladesh, frequently ranks among the most polluted cities globally. This project analyzes Air Quality Index (AQI) data to identify pollution trends, seasonal patterns, and high-risk periods. By leveraging data visualization, this analysis aims to provide actionable insights into when pollution is most dangerous for citizens .
 
-## 🧪 Key Objectives & Insights
+##  Key Objectives & Insights
 
 This analysis answers several critical questions regarding Dhaka's air quality:
 
